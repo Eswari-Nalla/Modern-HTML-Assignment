@@ -1,0 +1,14 @@
+HTML entities are used to replace reserved characters in HTML. 
+They can also replace characters that are not on a standard keyboard. 
+HTML entities allow users to add: Icons, Geometric shapes, Mathematical operators, Arrows, Technical symbols. 
+
+To make HTML entities appear in a document, users can use either the entity names or numerical codes. For example, to insert a copyright symbol, users can use: 
+&copy; 2007:
+&#169; 2007:
+
+Here are some commonly used HTML entities: 
+&: Ampersand = &amp;
+<: Less than = &lt;
+>: Greater than = &gt;
+ : No-break space = &nbsp;
+": Double quotation mark = &quot;

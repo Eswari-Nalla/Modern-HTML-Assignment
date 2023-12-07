@@ -1,0 +1,32 @@
+Web accessibility is the practice of designing and developing websites that are usable by as many people as possible.
+The goal is to provide equal opportunities for people with diverse abilities to navigate, understand, and interact with web content. 
+
+Web accessibility involves following certain design principles to ensure that people who experience difficulties or limitations have a similar experience as those who do not. This ensures that content is accessible for every user. 
+
+Benefits of web accessibility include: 
+ Better search results
+ Reduced maintenance costs
+ Increased audience reach
+
+Web accessibility also benefits other groups such as: 
+ Those using mobile devices
+ Those with slow network connections
+
+Some tips for developing for web accessibility include: 
+ Identifying page language and language changes
+ Declaring language in HTML
+
+By making websites accessible, we are ensuring that everyone has equal access to online content.
+One of the main reasons for the importance of website accessibility is the growing number of people with disabilities.
+
+Some reasons for the importance of website accessibility include: 
+ Equal access
+ Better user experience
+ Improved usability
+ Legal requirements
+
+Some tips for making a website more accessible include: 
+ Adding alternative text to images
+ Adding keyboard navigation
+ Making design consistent
+ Giving users control over contrast, brightness, and color

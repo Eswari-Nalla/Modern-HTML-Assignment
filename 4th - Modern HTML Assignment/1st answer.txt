@@ -1,0 +1,18 @@
+Here are some features of HTML5: 
+Multimedia support: HTML5 has built-in support for integrating multimedia files into web pages.
+Canvas: HTML5 supports canvas areas, which are rectangular areas that allow you to draw graphics.
+Editable content: End users can change the content of HTML controls.
+Custom data attributes: HTML5 allows you to add valid data attributes without affecting the web page UI.
+Syntax: HTML5 has a simpler and clearer syntax than HTML4. It supports uppercase tag names and optional quotes for attributes.
+
+Other features of HTML5 include: 
+1. Semantic elements
+2. Audio and video support
+3. Geolocation API
+4. Local storage
+5. Responsive images
+6. Web workers
+7. Drag and drop API
+
+HTML5 is a standard for structuring and presenting content on the World Wide Web.
+It's a collaboration between the World Wide Web Consortium (W3C) and the Web Hypertext Application Technology Working Group.

@@ -1,0 +1,14 @@
+Here are some ways to improve the accessibility of HTML: 
+1. Use semantic HTML: Semantic HTML is a good basis for accessibility. It's not more difficult to write than non-semantic markup.
+2. Add alt text to images: Alt text provides access to image content for people who can't see the images.
+3. Use clear language: Keep sentences short, avoid dashes, abbreviations, and slang words.
+
+Other ways to improve HTML accessibility include: 
+ Use proper headings
+ Use the HTML lang attribute
+ Use descriptive link text
+ Add labels to form fields
+ Avoid using placeholder text in forms
+ Increase contrast
+ Use keyboard shortcuts
+ Use LiveAnnouncer to announce changes to screen readers
